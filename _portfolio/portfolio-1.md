@@ -8,7 +8,7 @@ excessive risk if a person makes risky decisions under the false impression that
 spouse has sufficient assets to cover a crisis or it can cause households to sacrifice legitimate
 investment opportunities if both spouses are overly conservative. This study
 investigates whether married couples in rural Bangladesh successfully coordinate risky
-decisions across their respective domains. Using an artefactual experiment, we elicit
+decisions across their respective domains of decision-making. Using an artefactual experiment, we elicit
 individual risk preferences and employ a two-stage lottery-choice game to examine joint
 decision-making. The results indicate widespread coordination failures: only a quarter
 of couples successfully coordinate risk-taking decisions, while most either assume excessive
