@@ -13,28 +13,22 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Agricultural Economics**, Purdue University (USA), 2025
-* **M.Phil. in Development Studies**, Indira Gandhi Institute of Development Research (India), 2019
-* **M.Sc. in Economics**, University of Calcutta (India), 2016
-* **B.Sc. in Economics**, University of Calcutta (India), 2014
+* **Ph.D. Agricultural Economics**, Purdue University (USA), 2025
+* **M.Phil. Development Studies**, Indira Gandhi Institute of Development Research (India), 2019
+* **M.Sc. Economics**, University of Calcutta (India), 2016
+* **B.Sc. Economics**, University of Calcutta (India), 2014
 
 Work Experience
 ======
-* **Postdoctoral Researcher**, American University of Sharjah — 2025–Present
-* **Research Assistant to Dr. Jacob Ricker-Gilbert**, Purdue University — 2024–2025
-* **Research Assistant to Dr. Kajal Gulati**, Purdue University — 2021–2024
-* **Research Associate to Dr. Subrata Sarkar & Dr. Jayati Sarkar**, IGIDR — 2019–2020
-* **Research Assistant to Dr. Subrata Sarkar**, IGIDR — 2017–2019
+* **Postdoctoral Researcher**, American University of Sharjah (UAE), 2025–Present.
+* **Graduate Research Assistant**, Purdue University (USA), 2021–2025.
+* **Research Associate**, Indira Gandhi Institute of Development Research (India), 2017–2020.
 
-Awards & Fellowships
+Awards
 ======
-* **Uma Lele Prize for Best Contributed Paper on Gender**, International Conference for Agricultural Economics — 2024
-* **Ludwig Kruhe Fellowship**, Purdue University — 2024 (USD 68,766.15)
-* **Junior Research Fellowship (JRF)**, University Grants Commission (India) — 2017
-
-Grants
-======
-* **Jim and Neta Hicks Graduate Student Small Grant Program**, Purdue University — 2023 (USD 7,500)
+* **Uma Lele Prize for Best Contributed Paper on Gender**, International Conference for Agricultural Economics 2024. *For paper titled “Women’s Work and Agricultural Productivity Gaps in India”.*
+* **Ludwig Kruhe Fellowship**, Purdue University 2024 (USD 68,766.15). *Awarded to the most outstanding graduate students across seven departments.*
+* **Junior Research Fellowship (JRF)**, University Grants Commission (India) 2017.*Awarded to top 6% of candidates nationally.*
 
 Publications
 ======
@@ -46,10 +40,18 @@ Publications
 
 Working Papers
 ======
-* **Strategy and Coordination in Risky Household Decisions: Evidence from Bangladesh** (Job Market Paper)
+* **Strategy and Coordination in Risky Household Decisions** *(Job Market Paper)*
 * **Agricultural Mechanization and Gendered Structural Transformation in India** (with Kajal Gulati & Sam Bird)
 * **Gender Role Attitudes and Female Labor Participation: Evidence from Egypt** (with Kajari Saha & Shraddha Yadav)
+* **Indigenous Communities and Species Conservation – Examining the Role of Nature-Based Practices in Promoting Ecosystem Services** (with S. Atallah, S. Dissanayake & A. Lopes)
+* **Prickly Neighbors: Religion, Risk, and Human–Wildlife Coexistence** (with A. Lopes & D. Tasneem)
 * **Agricultural Mechanization and Investment in Human Capital** (with Kajal Gulati)
+
+Grants
+======
+* **Jim and Neta Hicks Graduate Student Small Grant Program**, Purdue University 2023 (USD 7,500).
+* **AAEA Travel Grant** 2025.
+* **Purdue Graduate Student Government (PGSG) Travel Grant** 2024.
 
 Conference Presentations
 ======
@@ -65,13 +67,15 @@ Teaching Experience
 
 Refereeing Experience
 ======
-* *Agricultural Economics*; *Review of Development Economics*
+* *Agricultural Economics*, *Review of Development Economics*, *inetrnational Social Science Journal*
 
 Skills
 ======
-* I use STATA/R for most of my data analysis needs. For data manipulation especially for spatial/climate data I use R/QGIS. I use Python for web scraping and mathematical programming.
+* **Analytical:**  STATA (Expert), R (Advanced), GAMS (Intermediate), Python (Intermediate), QGIS (Intermediate), Julia (Intermediate).
+* **Survey:**  SurveyCTO, Survey Solutions.
+* **Field Expereince:** Bangladesh, India.
 
 Languages & Citizenship
 ======
-* **Languages**: English (first language), Bengali (native), Hindi (social proficiency)  
+* **Languages**: English (Professionla fluency), Bengali (Native), Hindi (Conversational)  
 * **Citizenship**: India
