@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {:.lead}
-Welcome to my personal page! I am an agricultural economist specializing in issues related to international development and conservation. I use field experiments and quasi-experimental methods to study how social norms and culture shape behavioral responses to development challenges using experimental methods. I have conducted field experiments in Bngladesh and India.
+Welcome to my personal page! I am an agricultural economist specializing in issues related to international development and conservation. I use field experiments to study how social norms and culture shape behavioral responses to development challenges. 
 
-I am currently a Postdoctoral Researcher at the American University of Sharjah (AUS) and defended my Ph.D. in Agricultural Economics at Purdue University in 2025. My job market paper shows that spouses make systematic errors in coordinating risk-taking decisions in the household. A lab-in-field experiment with married couples in Bangladesh demonstrates that under imperfect information about a spouse’s risk-taking behavior, 23% of participants accept excessively risky lotteries and 24% sacrificed profitable opportunities out of over-caution. 
+I am currently a Postdoctoral Researcher at the American University of Sharjah (AUS) and defended my Ph.D. in Agricultural Economics at Purdue University in 2025. My job market paper shows that spouses make systematic errors in coordinating risk-taking decisions in the household. A lab-in-field experiment with married couples in Bangladesh demonstrates that under imperfect information about a spouse’s risk-taking behavior, nearly half of all participants either accept excessively risky lotteries or sacrifice profitable opportunities out of over-caution. 
 
 I am currently a Postdoctoral Researcher at the American University of Sharjah (AUS). At AUS, my research examines how indigenous culture and belief systems shape pro-conservation behavior, including how people perceive the likelihood of uncertain predation losses. 
 
