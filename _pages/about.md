@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-{:.lead}
-# Welcome 
+{:.lead} 
 I am an agricultural economist specializing in issues related to international development and conservation. I use field experiments to study how social norms and culture shape behavioral responses to development and environmental challenges.
 
 # Research Highlights
