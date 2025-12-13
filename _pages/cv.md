@@ -49,6 +49,7 @@ Working Papers
 
 Grants
 ======
+* **Prickly Neighbors: Religion, Risk, and Human–Wildlife Coexistence**, Rolling Research Grant, American University of Sharjah 2025-26 (USD 16,338). Role: Co-principal Investigator.
 * **Jim and Neta Hicks Graduate Student Small Grant Program**, Purdue University 2023 (USD 7,500).
 * **AAEA Travel Grant** 2025.
 * **Purdue Graduate Student Government (PGSG) Travel Grant** 2024.

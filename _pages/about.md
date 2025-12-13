@@ -8,13 +8,26 @@ redirect_from:
 ---
 
 {:.lead}
-Welcome to my personal page! I am an agricultural economist specializing in issues related to international development and conservation. I use field experiments to study how social norms and culture shape behavioral responses to development challenges. 
+# Welcome 
+I am an agricultural economist specializing in issues related to international development and conservation. I use field experiments to study how social norms and culture shape behavioral responses to development and environmental challenges.
 
-I am currently a Postdoctoral Researcher at the American University of Sharjah (AUS) and defended my Ph.D. in Agricultural Economics at Purdue University in 2025. My job market paper shows that spouses make systematic errors in coordinating risk-taking decisions in the household. A lab-in-field experiment with married couples in Bangladesh demonstrates that under imperfect information about a spouse’s risk-taking behavior, nearly half of all participants either accept excessively risky lotteries or sacrifice profitable opportunities out of over-caution. Using household data, I further show that risk preferences, and importantly the prediction errors spouses make about each other, are associated with children’s education outcomes, ownership of assets, and mistaken beliefs about the partner's assets.
+# Research Highlights
+A joint work with Kajal Gulati and Travis J. Lybbert received the *Uma Lele Prize for Best Contributed Paper in Gender* at the Interantional Conference for Agricultural Economists 2024. Using machine learning algorithms alongside traditional causal inference techniques, it documents productivity gap between households associated with the use of hired versus family female labor. This work was published in the *American Journal of Agricultural Economics* (2025).
 
-At AUS, my research examines how indigenous culture and belief systems shape pro-conservation behavior, including how people perceive the likelihood of uncertain predation losses. 
+# Job Market Paper
+My job market paper studies whether spouses successfully coordinate risk-taking decisions within the household. Using a lab-in-field experiment with married couples in Bangladesh, I show that most individuals hold mistaken beliefs about their spouse’s risk preferences, leading nearly half of participants to either accept excessively risky choices or forgo profitable opportunities under imperfect information. These coordination failures are larger when one spouse actively counters the other’s choice, a behavior more commonly exhibited by men, causing household risk profiles to disproportionately reflect men’s preferences. Linking experimental behavior to household data, I show that coordination errors predict asymmetric information about savings, assets, and loans, and significantly increase the likelihood that households are unable to cope with adverse shocks without selling productive assets or resorting to migration.
 
-A joint work with Kajal Gulati and Travis J. Lybbert received the *Uma Lele Prize for Best Contributed Paper in Gender* at the Interantional Conference for Agricultural Economists 2024. Using machine learning algorithms alongside traditional causal inference techniques, it documents productivity gap between households associated with the use of hired versus family female labor.
+# Second Doctoral Essay
+My second doctoral essay examines whether large-scale public works programs targeted at rural women can offset declines in female labor force participation driven by structural transformation. Exploiting the staggered rollout of India’s National Rural Employment Guarantee Scheme (NREGS) and district-level variation in soil texture that predicts agricultural mechanization, I show that NREGS did not mitigate women’s exit from the labor force induced by mechanization. Instead, declines in women’s participation are larger in NREGS districts than in non-NREGS districts, with minimal offsetting effects on days worked at the intensive margin. These findings highlight the limits of public works programs in counteracting gender-biased labor market impacts of technological change.
+
+# Current Research at AUS
+I am currently a Postdoctoral Researcher at the American University of Sharjah (AUS) and defended my Ph.D. in Agricultural Economics at Purdue University in 2025. 
+At AUS, my research focuses on how cultural beliefs shape cooperation in shared-resource environments. I co-lead field projects among Rabari and non-Rabari livestock herders near the Jawai Bandh leopard sanctuary in Rajasthan, India, using lab-in-field experiments to study pro-conservation behavior.
+
+One ongoing project uses a discrete choice experiment to estimate herders’ welfare valuations for leopard conservation relative to compensation for livestock predation losses. Preliminary results suggest that indigenous herders hold stronger pro-conservation beliefs than non-indigenous herders, and that these beliefs partially offset the monetary losses associated with predation.
+
+Building on this work, I have secured grant funding for a new project that will employ a novel ambiguity-preference elicitation design to study tolerance for predation-related uncertainty. This design allows comparisons of uncertainty preferences across social groups and sources of uncertainty, enabling tests of how familiarity and cultural identity shape risk perceptions and investment decisions. Fieldwork for this project is scheduled to begin in March 2026.
+
 
 
 
