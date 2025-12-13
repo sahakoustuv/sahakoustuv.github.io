@@ -77,5 +77,5 @@ Skills
 
 Languages & Citizenship
 ======
-* **Languages**: English (Professionla fluency), Bengali (Native), Hindi (Conversational)  
+* **Languages**: English (Professional fluency), Bengali (Native), Hindi (Conversational)  
 * **Citizenship**: India
